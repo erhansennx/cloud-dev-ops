@@ -17,7 +17,7 @@ spec:
         spec:
             containers:
                 
-name: devops
+name: clouddevops
                 image: erhansennx/cloud-dev-ops:latest
                 ports:
 containerPort: 5000
